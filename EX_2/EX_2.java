@@ -1,4 +1,5 @@
 package EX_2;
+
 import java.util.ArrayList;
 
 public class EX_2 {
